@@ -12,5 +12,6 @@ the description of the output is as follows:
 You can check the script: final-project-sanbercode-iqbal
 
 Thank you
+![image](https://github.com/Balsky99/projekdata/assets/58036295/6ea100b0-a05d-4977-b885-72fa5e642ba5)
 ![image](https://github.com/Balsky99/projekdata/assets/58036295/7470a2fe-911f-4116-8eb9-aea8d6a0bb20)
 
